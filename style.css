@@ -1,0 +1,20 @@
+body{
+    background-color:beige;
+}
+
+div{
+    height: 100px; width:100px;color:black; margin:auto;
+}
+
+#div1{
+    background-color:rgba(0,0,0,1);
+}
+#div2{
+    background-color:rgba(0,0,0,0.7);
+}
+#div3{
+    background-color:rgba(0,0,0,0.45);
+}
+#div4{
+    background-color:rgba(0,0,0,0.2);
+}
